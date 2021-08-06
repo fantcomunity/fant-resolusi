@@ -1,3 +1,5 @@
 FANT RESOLUSI
--Membuat platform untuk pengelolaan video
--Membuat forum diskusi
+- Membuat platform untuk pengelolaan video
+- Membuat forum diskusi
+- Membuat merch shop
+- Kolaborasi dengan lebih banyak expert
