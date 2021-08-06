@@ -1,0 +1,3 @@
+FANT RESOLUSI
+-Membuat platform untuk pengelolaan video
+-Membuat forum diskusi
